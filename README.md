@@ -115,7 +115,7 @@ MIT License — see [LICENSE](LICENSE) for full details.
 ## 👤 Author
 
 **Hamza Abdul Karim**  
-GitHub: Hamza35779 (https://github.com/Hamza35779/AI-Portfolio-Website-Generator)  
+GitHub: hamzabdulk@gmail.com (https://github.com/Hamza35779/AI-Portfolio-Website-Generator)  
 Project: AI Web Portfolio Generator
 
 ---
