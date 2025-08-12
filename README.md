@@ -66,18 +66,6 @@ python app.py
 
 Visit `http://127.0.0.1:5000` in your browser.
 
----
-
-## 🎨 Screenshots
-
-| Portfolio Form | Generated Portfolio | Export ZIP |
-|----------------|---------------------|------------|
-| (static/img/form.png) | (static/img/preview.png) | (static/img/zip.png) |
-
-> Screenshots are optional — remove this section if images don't exist.
-
----
-
 ## 🧠 AI Integration
 
 - **Content Enhancement:** AI suggests better phrases and personalized descriptions.
