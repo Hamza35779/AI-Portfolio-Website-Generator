@@ -16,7 +16,7 @@
 
 ## 🎨 Project Screenshots
 
-![17![1753977996931](https://github.com/user-attachments/assets/b221de05-68a6-4650-940d-130b863dca48)
+![1753977996931](https://github.com/user-attachments/assets/0b2d84e2-7ca8-40b2-8697-18310839eea8)
 53977996527](https://github.com/user-attachments/assets/6da84c18-9d03-451a-9915-14a9b52b4160)
 !![1753977996520](https://github.com/user-attachments/assets/d7b9b121-98de-4fff-b241-008814e5d653)
 [17![1753977996501](https://github.com/user-attachments/assets/080abb49-2514-4559-9049-4dd3c6aa89e5)
