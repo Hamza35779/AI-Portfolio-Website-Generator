@@ -1,4 +1,3 @@
-
 # 🧠 AI Web Portfolio Generator
 
 **AI Web Portfolio Generator** is a smart application that allows users to generate professional and personalized web portfolios by answering a series of questions. It uses AI assistance to enhance content generation, theme suggestions, and overall design personalization.
@@ -73,7 +72,7 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 | Portfolio Form | Generated Portfolio | Export ZIP |
 |----------------|---------------------|------------|
-| ![Form](static/img/form.png) | ![Preview](static/img/preview.png) | ![ZIP Export](static/img/zip.png) |
+| (static/img/form.png) | (static/img/preview.png) | (static/img/zip.png) |
 
 > Screenshots are optional — remove this section if images don't exist.
 
